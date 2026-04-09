@@ -1,16 +1,31 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Sky Banner" width="100%" />
+</p>
+
 <h1 align="center">Sky / sky121666</h1>
 
 <p align="center">
-  代码 · 统计 · 活跃度
+  代码 · 主题 · 工具 · 活跃度
 </p>
 
 <p align="center">
   <a href="https://5ee.net">博客</a>
   ·
   <a href="https://github.com/sky121666">GitHub</a>
+  ·
+  <a href="https://github.com/sky121666/theme-sky-blog-3">Theme Sky Blog 3</a>
 </p>
 
-## 代码统计
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./assets/metrics.svg" alt="仓库概览" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="./assets/languages.svg" alt="语言分布" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>

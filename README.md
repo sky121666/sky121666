@@ -8,8 +8,6 @@
   <a href="https://5ee.net">Blog</a>
   ·
   <a href="https://github.com/sky121666">GitHub</a>
-  ·
-  <a href="https://github.com/sky121666/awesome-halo">Awesome Halo</a>
 </p>
 
 ## Code Stats

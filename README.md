@@ -1,18 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Sky Banner" width="100%" />
-</p>
-
 <h1 align="center">Sky / sky121666</h1>
-
-<p align="center">
-  主题 · 工具 · 活跃度
-</p>
-
-<p align="center">
-  <a href="https://5ee.net">博客</a>
-  ·
-  <a href="https://github.com/sky121666/theme-sky-blog-3">Theme Sky Blog 3</a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sky121666&show_icons=true&hide_border=true&rank_icon=percentile&locale=cn&bg_color=00000000&title_color=58A6FF&text_color=8FA7BF&icon_color=79C0FF&custom_title=GitHub%E6%A6%82%E8%A7%88" alt="GitHub 概览" width="49%" />

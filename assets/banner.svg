@@ -1,0 +1,60 @@
+<svg width="1280" height="480" viewBox="0 0 1280 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1200" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07131F"/>
+      <stop offset="0.55" stop-color="#0A1D2E"/>
+      <stop offset="1" stop-color="#102A3F"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(188 128) rotate(40) scale(240 220)">
+      <stop stop-color="#52D6FF" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#52D6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 120) rotate(90) scale(280 260)">
+      <stop stop-color="#4F7DFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#4F7DFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panelStroke" x1="860" y1="76" x2="1140" y2="352" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#74E0FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7B88FF" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="480" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="478" rx="27" stroke="rgba(255,255,255,0.08)"/>
+
+  <rect x="72" y="72" width="1136" height="336" rx="24" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.05)"/>
+  <path d="M120 72V408M216 72V408M312 72V408M408 72V408M504 72V408M600 72V408M696 72V408M792 72V408M888 72V408M984 72V408M1080 72V408M1176 72V408" stroke="rgba(255,255,255,0.04)"/>
+  <path d="M72 120H1208M72 168H1208M72 216H1208M72 264H1208M72 312H1208M72 360H1208" stroke="rgba(255,255,255,0.04)"/>
+
+  <circle cx="184" cy="128" r="180" fill="url(#glowLeft)"/>
+  <circle cx="1020" cy="112" r="220" fill="url(#glowRight)"/>
+
+  <g opacity="0.95">
+    <text x="136" y="192" fill="white" font-family="SF Pro Display, Inter, Segoe UI, sans-serif" font-size="88" font-weight="700" letter-spacing="-2">Sky</text>
+    <text x="140" y="234" fill="#8AB4C9" font-family="SF Pro Text, Inter, Segoe UI, sans-serif" font-size="18" font-weight="500" letter-spacing="3.2">SKY121666</text>
+    <text x="136" y="294" fill="#D7E7F1" font-family="SF Pro Display, Inter, Segoe UI, sans-serif" font-size="34" font-weight="600" letter-spacing="-0.6">Halo themes, publishing tools, small products</text>
+    <text x="136" y="340" fill="#8AA5B8" font-family="SF Pro Text, Inter, Segoe UI, sans-serif" font-size="22" font-weight="500">Build slowly. Ship clearly. Keep the work maintainable.</text>
+  </g>
+
+  <g>
+    <rect x="858" y="88" width="292" height="210" rx="20" fill="rgba(10,19,30,0.56)" stroke="url(#panelStroke)"/>
+    <rect x="882" y="118" width="88" height="10" rx="5" fill="#84E2FF"/>
+    <rect x="882" y="150" width="192" height="10" rx="5" fill="rgba(255,255,255,0.16)"/>
+    <rect x="882" y="176" width="168" height="10" rx="5" fill="rgba(255,255,255,0.12)"/>
+    <rect x="882" y="202" width="208" height="10" rx="5" fill="rgba(255,255,255,0.12)"/>
+    <rect x="882" y="228" width="154" height="10" rx="5" fill="rgba(255,255,255,0.12)"/>
+    <rect x="882" y="256" width="96" height="18" rx="9" fill="rgba(82,214,255,0.12)" stroke="rgba(82,214,255,0.28)"/>
+    <circle cx="1118" cy="116" r="5" fill="#7CF5B3"/>
+    <circle cx="1136" cy="116" r="5" fill="#FFD46A"/>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="946" y="244" width="178" height="104" rx="18" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.10)"/>
+    <path d="M976 318C1000 286 1020 274 1044 296C1060 310 1070 312 1086 286C1092 276 1100 268 1112 260" stroke="#82E1FF" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="976" cy="318" r="5" fill="#82E1FF"/>
+    <circle cx="1044" cy="296" r="5" fill="#7A89FF"/>
+    <circle cx="1086" cy="286" r="5" fill="#82E1FF"/>
+    <text x="976" y="276" fill="#D7E7F1" font-family="SF Pro Text, Inter, Segoe UI, sans-serif" font-size="14" font-weight="600">CURRENT FOCUS</text>
+    <text x="976" y="300" fill="#8AA5B8" font-family="SF Pro Text, Inter, Segoe UI, sans-serif" font-size="14">Themes / Tooling / Product Notes</text>
+  </g>
+</svg>

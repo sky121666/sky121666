@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  Focus on Halo themes, publishing tools and maintainable products.
+</p>
+
+<p align="center">
   <a href="https://5ee.net">Blog</a>
   ·
   <a href="https://github.com/sky121666">GitHub</a>
@@ -98,4 +102,3 @@
 - Blog: [5ee.net](https://5ee.net)
 - GitHub: [github.com/sky121666](https://github.com/sky121666)
 - Current Focus: [theme-sky-blog-3](https://github.com/sky121666/theme-sky-blog-3) / [awesome-halo](https://github.com/sky121666/awesome-halo)
-
